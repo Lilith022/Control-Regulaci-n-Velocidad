@@ -1,3 +1,4 @@
+#code by: Juan Pablo Diaz Lemus
 import serial
 import pandas as pd
 
