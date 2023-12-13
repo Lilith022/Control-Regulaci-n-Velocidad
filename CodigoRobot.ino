@@ -1,3 +1,4 @@
+//Code by: Juan Pablo Diaz Lemus
 #include <PID_v1.h>
 
 #define Enc1 34
