@@ -1,3 +1,4 @@
+#code by: Juan Pablo Diaz Lemus
 #import SerialComun
 import matplotlib.pyplot as plt
 import pandas as pd
